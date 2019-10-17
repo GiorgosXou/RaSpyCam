@@ -2,7 +2,7 @@
 
  Just a simple Application which achieves AES Encrypted Comunication through Mysql, between two >= IOTs. +Camera-Use.
  This is not something "important" in my opinion, it is just a "Random" thought that somehow managed to be that kind of "confusing" thing. _(Although it Started as A "Raspberry Spy Camera" = RaSpyCam)_. 🤷 For real I have no idea what should i say or not, lol look by yourself [...] 
- <br>
+ <br> <br>
  ✔️ basically, i would say that it is more like something for those who want to get started with comunication through Mysql between two >= IOTs, rather than anything else [...]<br>
 
 ## ```📝 Summary```
