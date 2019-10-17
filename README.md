@@ -215,6 +215,8 @@ sh Run.sh &
 
 * It Works ...
 
+* I don't like what i've uploaded lol , for real
+
 * The answer To what you've asked was always the question  [...]
 
 *  Εικόνα που βλέπει το "εγώ", θυμίζει κουτί που δε βλέπεις, εικόνα που χάνεις• σκιά που 'τε φως και να βλέπεις, ακούει τα λόγια που λες: [...][ ‮#i📁👁](https://www.instagram.com/explore/tags/i%F0%9F%93%81%F0%9F%91%81/)
