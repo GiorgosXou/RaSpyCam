@@ -171,9 +171,6 @@ sh Run.sh &
 - Press Y<br>
 - Press Enter-Key <br>
 
-## 🖼️ Output Images:
-...
-
 ## ❗ Important:
 *  The Fact that i am programming about ~10 years now DOESN'T MAKE ME A PROFESSIONAL PROGRAMMER
 *  [An Android App was the worst way i could communicate with a MySQL Database (At least in the way i did it?)](https://stackoverflow.com/questions/6373826/execute-asynctask-several-times)
@@ -185,23 +182,6 @@ sh Run.sh &
 * etc.
 
 
-
-
-## 🌐 Searches Across Internet:
-
-| About |  |  |  |  |  |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
 
 ## 📓 Notes:
 
